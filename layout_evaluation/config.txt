@@ -244,6 +244,11 @@ x a u e i , c t s r n h
 é s n r t p w u e i a #
 è x m l d z v k . , ; -
 
+>>Hands down Neu
+# w f m p v / . q " ' z
+é r s n t b , a e i h j
+è x c l d g - u o y k #
+
 //https://sites.google.com/alanreiser.com/handsdown
 >>Notarize
 # q w d f p y u k l ' #
@@ -322,7 +327,29 @@ x a u e i , c t s r n h
 - r s t h k j n e a i ;
 # x c m p v z , . ' / è
 
->>XCL
+>>xcl
 é x c l p v ü , o . q ß
 è s r n t g y i e a h b
 - f w m d j ö u ä z k '
+
+>>xcl-compact
+é x l c p v q . ' y k #
+è s r n t g , a e i h #
+- f w m d j z o ; u b #
+
+>>xcl-mod30
+é x c l p b - , o . f #
+è s r n t g y i e a h #
+# v w m d j ' u q z k #
+
+>>xcl-qb
+é x c l p v ; , o . b #
+è s r n t g y i e a h #
+- f w m d j ' u q z k /
+
+>>snug
+é q l d m b y f o u ' #
+è s r t c g p n e i a #
+- z x k w v j h ; , . /
+
+
